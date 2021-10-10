@@ -10,4 +10,4 @@ A segunda parte da atividade é para mudar a forma de armazenamento dos dados do
 As especificações do trabalho não se encontram junto ao projeto devido a direitos autorais.<br />
 
 
-Foram usados o JUnit 4 e 5 nos testes e o drive mysql-connector-java-8.0.25<br />
+Foram usados o JUnit 5 nos testes e o drive mysql-connector-java-8.0.25<br />
